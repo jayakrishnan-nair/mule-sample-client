@@ -1,4 +1,4 @@
-package test.com.sample.client.test;
+package com.sample.client.test;
 
 import static org.junit.Assert.*;
 
